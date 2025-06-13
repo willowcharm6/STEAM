@@ -1,5 +1,4 @@
-# STEAM
-# Executive Summary
+# STEAM (See, Touch, Engage, Activate, Move) - Executive Summary
 ## Project Problem
 In collaboration with the Wilmette Historical Museum, we identified a need for an engaging, accessible exhibit to teach visitors about steam engine mechanics. Existing displays often fail to captivate multi-generational audiences, relying on static models or text-heavy panels that overlook hands-on learning opportunities.
 
